@@ -1,5 +1,7 @@
 #theme: minima
-remote-theme: vszhub/not-pure-poole
+plugins:
+  - jekyll-remote-theme
+remote_theme: vszhub/not-pure-poole
 #remote-theme: poole/lanyon
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
