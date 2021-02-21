@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
 Email: arjen.stolk@dartmouth.edu  
