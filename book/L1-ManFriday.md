@@ -1,2 +1,4 @@
-## Arrival of Man Friday
+---
+title: Arrival of Man Friday
+---
 
