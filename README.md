@@ -1,6 +1,3 @@
-# Social Neurocognition
-## PSYC 53.14 - Spring 2021
-
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
 Email: arjen.stolk@dartmouth.edu  
