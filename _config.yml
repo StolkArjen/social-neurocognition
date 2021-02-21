@@ -4,3 +4,10 @@ description: Course book for PSYC 53.14 (Spring 2021)
 baseurl: "/"
 twitter_username: StolkArjen
 github_username:  StolkArjen
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
