@@ -13,4 +13,3 @@ This course will provide students with a thorough background in the newly emergi
 -	Gain insight into how human brains achieve mutual understanding and how this elusive capacity underpins social interaction, culture, and society
 -	Get a thorough background in neuroscientific approaches for advancing our understanding of human social phenomena  
 -	Learn how to critically read the neuroscientific literature and view opposing theories and data in perspective
-
