@@ -2,9 +2,5 @@ theme: minima #jekyll-theme-slate
 title: Social Neurocognition
 description: Course book for PSYC 53.14 (Spring 2021)
 baseurl: "/"
-
-author:
-  name: Arjen Stolk
-  email: arjen.stolk@dartmouth.edu
 twitter_username: StolkArjen
 github_username:  StolkArjen
