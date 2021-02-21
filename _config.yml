@@ -6,3 +6,4 @@ author: Arjen Stolk
 baseurl: "/"
 twitter_username: StolkArjen
 github_username:  StolkArjen
+home_page_in_navbar: false 
