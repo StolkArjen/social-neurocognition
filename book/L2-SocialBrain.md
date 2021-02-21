@@ -1,1 +1,3 @@
-## The Social Brain
+---
+title: The Social Brain
+---
