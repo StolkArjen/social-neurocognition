@@ -1,5 +1,6 @@
 #theme: minima
-remote-theme: "poole/lanyon"
+theme: jekyll-theme-primer
+remote-theme: poole/lanyon
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Social Neurocognition
