@@ -1,5 +1,5 @@
-layout: page  
-title: "Arrival of Man Friday"  
-permalink: /URL-PATH/  
+---
+title: Arrival of Man Friday
+---
 
 # Arrival of Man Friday
