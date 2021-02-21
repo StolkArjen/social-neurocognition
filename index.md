@@ -1,12 +1,3 @@
-{% for item in site.data.navigation.toc %}
-<h3>{{ item.title }}</h3>
-<ul>
-{% for entry in item.subfolderitems %}
-<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-{% endfor %}
-</ul>
-{% endfor %}
-
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
 Email: arjen.stolk@dartmouth.edu  
