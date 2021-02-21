@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: minima #jekyll-theme-slate
 title: Social Neurocognition
 description: Course book for PSYC 53.14 (Spring 2021)
 baseurl: "/"
