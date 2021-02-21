@@ -1,6 +1,0 @@
----
-title: about
----
-about it
-
-
