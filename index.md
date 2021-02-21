@@ -1,9 +1,11 @@
-<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+{% for item in site.data.navigation.toc %}
+<h3>{{ item.title }}</h3>
 <ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
+{% for entry in item.subfolderitems %}
+<li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+{% endfor %}
 </ul>
+{% endfor %}
 
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
