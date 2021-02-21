@@ -1,3 +1,6 @@
+---
+title: Home
+---
 
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
