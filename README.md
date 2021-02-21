@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Social Neurocognition
 
-You can use the [editor on GitHub](https://github.com/StolkArjen/social-neurocognition/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Instructor: Arjen Stolk
+Office: 351 Moore Hall
+Email: arjen.stolk@dartmouth.edu
+Class Hours: Mondays/Wednesdays/Fridays 1:10-2:15pm
+Office Hours: Thursdays 1:00-2:00pm
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Course Overview
+This course will provide students with a thorough background in the newly emerging field of social cognitive neuroscience. A broad range of social phenomena will be examined at multiple levels. First, at the social level including experience and behaviors. Second, at the cognitive level which deals with information processing systems. And lastly, at the neural level which deals with brain/neuronal bases of the first two levels. Topics include joint action, animal and human communication, and altered social functioning in neurological and psychiatric disorders. These topics will be discussed at both general and specific (article) levels.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
