@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 #remote_theme: hydecorp/hydejack@v9.1.2
 #remote-theme: poole/lanyon
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 title: Social Neurocognition
 description: Course book for PSYC 53.14 (Spring 2021)
 author: Arjen Stolk
