@@ -25,13 +25,13 @@ This course will provide students with a thorough background in the newly emergi
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | 3/29 <br /> Arrival of Man Friday | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition |
+| Week 1       | 3/29 <br /> Arrival of Man Friday | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition <br /> *Team Assignments* |
 | Week 2       | 4/5 <br /> Game Theory | 4/7 <br /> Agent-based Modeling | 4/9 <br /> Dual 1: Big Brains |
 | Week 3       | 4/12 <br /> Cooperative Breeding | 4/14 <br /> Mentalizing | 4/16 <br /> Dual 2: Social Development |
 | Week 4       | 4/19 <br /> Constructing Understanding | 4/21 <br /> Psychiatry of Social Cognition | 4/23 <br /> Dual 3: Autistic Communication |
-| Week 5       | 4/26 <br /> Degeneration of Social Cognition | 4/28 <br /> Neurology of Social Cognition <br /> *(Exam Questions due)* | 4/30 <br /> Dual 4: Prefrontal Social Reasoning |
+| Week 5       | 4/26 <br /> Degeneration of Social Cognition | 4/28 <br /> Neurology of Social Cognition <br /> *Exam Questions due* | 4/30 <br /> Dual 4: Prefrontal Social Reasoning |
 | Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
 | Week 7       | 5/10 <br /> Primate Communication | 5/12 <br /> Human Communication | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
 | Week 8       | 5/17 <br /> Electrophysiology of Communication | 5/19 <br /> Neural Dynamics of Communication | 5/21 <br /> Dual 6: Promoting Prosociality |
-| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *(Exam Questions due)* | 5/28 <br /> |
+| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *Exam Questions due* | 5/28 <br /> |
 | Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
