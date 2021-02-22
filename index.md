@@ -2,7 +2,7 @@
 layout: home
 paginate: true
 alt_title: " "
-image: ./assets/img/chimpchess.jpg
+image: ./assets/img/chimpchess_wide.png
 ---
 
 Instructor: Arjen Stolk  
