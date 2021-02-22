@@ -33,5 +33,5 @@ This course will provide students with a thorough background in the newly emergi
 | Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
 | Week 7       | 5/10 <br /> Primate Communication | 5/12 <br /> Human Communication | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
 | Week 8       | 5/17 <br /> Electrophysiology of Communication | 5/19 <br /> Neural Dynamics of Communication | 5/21 <br /> Dual 6: Promoting Prosociality |
-| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *Exam Questions due* | 5/28 <br /> |
+| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *Exam Questions due* | 5/28 <br /> <br /> |
 | Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
