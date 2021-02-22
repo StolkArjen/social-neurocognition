@@ -25,10 +25,10 @@ This course will provide students with a thorough background in the newly emergi
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | 3/29 <br /> Arrival of Man Friday | The Social Brain | Animal Social Cognition |
-| Week 2       | 4/5 <br /> Game Theory | Agent-based Modeling | Dual 1: Big Brains |
-| Week 3       | 4/12 <br /> Cooperative Breeding | Mentalizing | Dual 2: Social Development |
-| Week 4       | 4/19 <br /> Constructing Understanding | Psychiatry of Social Cognition | Dual 3: Autistic Communication |
+| Week 1       | 3/29 <br /> Arrival of Man Friday | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition |
+| Week 2       | 4/5 <br /> Game Theory | 4/7 <br /> Agent-based Modeling | 4/9 <br /> Dual 1: Big Brains |
+| Week 3       | 4/12 <br /> Cooperative Breeding | 4/14 <br /> Mentalizing | 4/16 <br /> Dual 2: Social Development |
+| Week 4       | 4/19 <br /> Constructing Understanding | 4/21 <br /> Psychiatry of Social Cognition | 4/23 <br /> Dual 3: Autistic Communication |
 | Week 5       | 4/26 <br /> Degeneration of Social Cognition | Neurology of Social Cognition <br /> *(Exam Questions due)* | Dual 4: Prefrontal Social Reasoning |
 | Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
 | Week 7       | 5/10 <br /> Primate Communication | 5/12 <br /> Human Communication | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
