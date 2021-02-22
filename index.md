@@ -25,5 +25,5 @@ This course will provide students with a thorough background in the newly emergi
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | git status     | git status    | git status    |
+| Week 1       | 3/29 Arrival of Man Friday     | git status    | git status    |
 | Week 2       | git diff       | git diff      | git diff      |
