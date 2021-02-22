@@ -25,5 +25,5 @@ This course will provide students with a thorough background in the newly emergi
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | 3/29 Arrival of Man Friday     | git status    | git status    |
-| Week 2       | git diff       | git diff      | git diff      |
+| Week 1       | Arrival of Man Friday | The Social Brain | Animal Social Cognition |
+| Week 2       | Gaame Theory | Agent-based Modeling | Dual 1: Big Brains |
