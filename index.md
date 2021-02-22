@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: ""
+alt_title: " "
 image: ./assets/img/chimpchess.jpg
 ---
 
