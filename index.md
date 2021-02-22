@@ -30,8 +30,8 @@ This course will provide students with a thorough background in the newly emergi
 | Week 3       | 4/12 <br /> Cooperative Breeding | Mentalizing | Dual 2: Social Development |
 | Week 4       | 4/19 <br /> Constructing Understanding | Psychiatry of Social Cognition | Dual 3: Autistic Communication |
 | Week 5       | 4/26 <br /> Degeneration of Social Cognition | Neurology of Social Cognition <br /> *(Exam Questions due)* | Dual 4: Prefrontal Social Reasoning |
-| Week 6       | 5/3 <br /> **Midterm** | X-hour | X-hour |
-| Week 7       | 5/10 <br /> Primate Communication | Human Communication | Dual 5: Brain-To-Brain Coupling |
-| Week 8       | Electrophysiology of Communication | Neural Dynamics of Communication | Dual 6: Promoting Prosociality |
-| Week 9       | Joint Epistemic Engineering | Putting It All Together <br /> *(Exam Questions due)* | |
-| Week 10      | No Class | **Final** | |
+| Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
+| Week 7       | 5/10 <br /> Primate Communication | 5/12 <br /> Human Communication | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
+| Week 8       | 5/17 <br /> Electrophysiology of Communication | 5/19 <br /> Neural Dynamics of Communication | 5/21 <br /> Dual 6: Promoting Prosociality |
+| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *(Exam Questions due)* | 5/28 <br /> |
+| Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
