@@ -3,4 +3,4 @@ layout: page
 title: Arrival of Man Friday
 ---
 
-Hello!
+<embed src="../assets/img/tessie.pdf" type="application/pdf">
