@@ -26,13 +26,13 @@ This course will provide a thorough background in the newly emerging field of so
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | 3/29 <br /> [Arrival of Man Friday](./book/L01-ManFriday.md) | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition <br /> *Team Assignments* |
-| Week 2       | 4/5 <br /> Game Theory | 4/7 <br /> Agent-based Modeling | 4/9 <br /> Dual 1: Big Brains |
-| Week 3       | 4/12 <br /> Cooperative Breeding | 4/14 <br /> Mentalizing | 4/16 <br /> Dual 2: Social Development |
-| Week 4       | 4/19 <br /> Constructing Understanding | 4/21 <br /> Psychiatry of Social Cognition | 4/23 <br /> Dual 3: Autistic Communication |
-| Week 5       | 4/26 <br /> Degeneration of Social Cognition | 4/28 <br /> Neurology of Social Cognition <br /> *Exam Questions due* | 4/30 <br /> Dual 4: Prefrontal Social Reasoning |
+| Week 1       | 3/29 <br /> [Arrival of Man Friday](./book/L01-ManFriday.md) | 3/31 <br /> [The Social Brain](./book/L02-SocialBrain.md) | 4/2 <br /> Animal [Social Cognition](./book/L03-AnimalSocialCognition.md) <br /> *Team Assignments* |
+| Week 2       | 4/5 <br /> [Game Theory](./book/L04-GameTheory.md) | 4/7 <br /> [Agent-based Modeling](./book/L05-AgentBasedModeling.md) | 4/9 <br /> Dual 1: Big Brains |
+| Week 3       | 4/12 <br /> [Cooperative Breeding](./book/L06-CooperativeBreeding.md) | 4/14 <br /> [Mentalizing](./book/L07-Mentalizing.md) | 4/16 <br /> Dual 2: Social Development |
+| Week 4       | 4/19 <br /> [Constructing Understanding](./book/L08-ConstructingUnderstanding.md) | 4/21 <br /> [Psychiatry of Social Cognition](./book/L09-PsychiatrySocialCognition.md) | 4/23 <br /> Dual 3: Autistic Communication |
+| Week 5       | 4/26 <br /> [Degeneration of Social Cognition](./book/L10-DegenerationSocialCognition.md) | 4/28 <br /> [Neurology of Social Cognition](./book/L11-NeurologySocialCognition.md) <br /> *Exam Questions due* | 4/30 <br /> Dual 4: Prefrontal Social Reasoning |
 | Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
-| Week 7       | 5/10 <br /> Primate Communication | 5/12 <br /> Human Communication | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
-| Week 8       | 5/17 <br /> Electrophysiology of Communication | 5/19 <br /> Neural Dynamics of Communication | 5/21 <br /> Dual 6: Promoting Prosociality |
-| Week 9       | 5/24 <br /> Joint Epistemic Engineering | 5/26 <br /> Putting It All Together <br /> *Exam Questions due* | 5/28 <br /> <br /> |
+| Week 7       | 5/10 <br /> [Primate Communication](./book/L12-PrimateCommunication.md) | 5/12 <br /> [Human Communication](./book/L13-HumanCommunication.md) | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
+| Week 8       | 5/17 <br /> [Electrophysiology of Communication](./book/L14-ElectrophysiologyCommunication.md) | 5/19 <br /> [Neural Dynamics of Communication](./book/L15-NeuralDynamicsCommunication.md) | 5/21 <br /> Dual 6: Promoting Prosociality |
+| Week 9       | 5/24 <br /> [Joint Epistemic Engineering](./book/L16-JointEpistemicEngineering.md) | 5/26 <br /> [Putting It All Together](./book/L17-PuttingItAllTogether.md) <br /> *Exam Questions due* | 5/28 <br /> <br /> |
 | Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
