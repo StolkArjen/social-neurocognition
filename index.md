@@ -10,6 +10,7 @@ Instructor: Arjen Stolk
 Office: 351 Moore Hall  
 Email: arjen.stolk@dartmouth.edu  
 Class Hours: Mondays/Wednesdays/Fridays 1:10-2:15pm  
+Class URL: stolkarjen.github.io/social-neurocognition  
 Office Hours: Thursdays 1:00-2:00pm
 
 ### Course Overview
