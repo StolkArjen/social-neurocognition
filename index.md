@@ -26,7 +26,7 @@ This course will provide a thorough background in the newly emerging field of so
 
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
-| Week 1       | 3/29 <br /> Arrival of Man Friday | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition <br /> *Team Assignments* |
+| Week 1       | 3/29 <br /> [Arrival of Man Friday](./book/L01-ManFriday.md) | 3/31 <br /> The Social Brain | 4/2 <br /> Animal Social Cognition <br /> *Team Assignments* |
 | Week 2       | 4/5 <br /> Game Theory | 4/7 <br /> Agent-based Modeling | 4/9 <br /> Dual 1: Big Brains |
 | Week 3       | 4/12 <br /> Cooperative Breeding | 4/14 <br /> Mentalizing | 4/16 <br /> Dual 2: Social Development |
 | Week 4       | 4/19 <br /> Constructing Understanding | 4/21 <br /> Psychiatry of Social Cognition | 4/23 <br /> Dual 3: Autistic Communication |
