@@ -11,7 +11,7 @@ Office: 351 Moore Hall
 Email: arjen.stolk@dartmouth.edu  
 Class Hours: Mondays/Wednesdays/Fridays 1:10-2:15pm  
 Class URL: stolkarjen.github.io/social-neurocognition  
-Office Hours: Thursdays 1:00-2:00pm
+Office Hours: Thursdays 1:00-2:00 pm
 
 ### Course Overview
 This course will provide a thorough background in the newly emerging field of social cognitive neuroscience. A broad range of social phenomena will be examined at multiple levels. First, at the social level including experience and behaviors. Second, at the cognitive level which deals with information processing systems. And lastly, at the neural level which deals with brain/neuronal bases of the first two levels. Topics include joint action, animal and human communication, and altered social functioning in neurological and psychiatric disorders. These topics will be discussed at both general and specific (article) levels.
