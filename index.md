@@ -24,7 +24,6 @@ This course will provide a thorough background in the newly emerging field of so
 -	Learn how to critically read the neuroscientific literature and view opposing theories and data in perspective
 
 ### Class Schedule
-
 | Week         |     Monday     |   Wednesday   |     Friday    |
 | :---         |     :---:      |     :---:     |     :---:     |
 | Week 1       | 3/29 <br /> [Arrival of Man Friday](./book/L01-ManFriday.md) | 3/31 <br /> [The Social Brain](./book/L02-SocialBrain.md) | 4/2 <br /> [Animal Social Cognition](./book/L03-AnimalSocialCognition.md) <br /> *Team Assignments* |
