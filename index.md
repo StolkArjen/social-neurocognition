@@ -5,7 +5,6 @@ alt_title: " "
 image: ./assets/img/chimpchess_wide.png
 ---
 
-{: .text-center}
 ### PSYC 53.14 - Spring 2021
 Instructor: Arjen Stolk  
 Office: 351 Moore Hall  
