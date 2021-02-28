@@ -37,5 +37,3 @@ This course will provide a thorough background in the newly emerging field of so
 | Week 8       | 5/17 <br /> [Electrophysiology of Communication](./book/L14-ElectrophysiologyCommunication.md) | 5/19 <br /> [Neural Dynamics of Communication](./book/L15-NeuralDynamicsCommunication.md) | 5/21 <br /> Dual 6: Promoting Prosociality |
 | Week 9       | 5/24 <br /> [Joint Epistemic Engineering](./book/L16-JointEpistemicEngineering.md) | 5/26 <br /> [Putting It All Together](./book/L17-PuttingItAllTogether.md) <br /> *Exam Questions due* | 5/28 <br /> <br /> |
 | Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
-
-{: .text-center}
