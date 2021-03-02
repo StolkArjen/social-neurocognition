@@ -33,7 +33,7 @@ This course will provide a thorough background in the newly emerging field of so
 | Week 4       | 4/19 <br /> [Constructing Understanding](./book/L08-ConstructingUnderstanding.md) | 4/21 <br /> [Psychiatry of Social Cognition](./book/L09-PsychiatrySocialCognition.md) | 4/23 <br /> Dual 3: Autistic Communication |
 | Week 5       | 4/26 <br /> [Degeneration of Social Cognition](./book/L10-DegenerationSocialCognition.md) | 4/28 <br /> [Neurology of Social Cognition](./book/L11-NeurologySocialCognition.md) <br /> *Exam Questions due* | 4/30 <br /> Dual 4: Prefrontal Social Reasoning |
 | Week 6       | 5/3 <br /> **Midterm** | 5/5 <br /> X-hour | 5/7 <br /> X-hour |
-| Week 7       | 5/10 <br /> [Primate Communication](./book/L12-PrimateCommunication.md) | 5/12 <br /> [Human Communication](./book/L13-HumanCommunication.md) | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
+| Week 7       | 5/10 <br /> [Animal Communication](./book/L12-AnimalCommunication.md) | 5/12 <br /> [Human Communication](./book/L13-HumanCommunication.md) | 5/14 <br /> Dual 5: Brain-To-Brain Coupling |
 | Week 8       | 5/17 <br /> [Electrophysiology of Communication](./book/L14-ElectrophysiologyCommunication.md) | 5/19 <br /> [Neural Dynamics of Communication](./book/L15-NeuralDynamicsCommunication.md) | 5/21 <br /> Dual 6: Promoting Prosociality |
 | Week 9       | 5/24 <br /> [Joint Epistemic Engineering](./book/L16-JointEpistemicEngineering.md) | 5/26 <br /> [Putting It All Together](./book/L17-PuttingItAllTogether.md) <br /> *Exam Questions due* | 5/28 <br /> <br /> |
 | Week 10      | 5/31 <br /> No Class | 6/2 <br /> **Final** | |
