@@ -47,8 +47,9 @@ h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-ul, ol { 
-    padding: 0;
+ul, ol {
+    list-style: none;
+    padding-left: 0;
 }
 
 p {
