@@ -47,12 +47,13 @@ h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-/* bullet point list specs */
-/*ul, ol {
+/* list specs */
+ul, ol {
     list-style-position: inside;	
     padding-left: 0;
-}*/
+}
 
+/* bullet specs */
 li {
     /* alignment with preceding text */	
     list-style-position: inside;
