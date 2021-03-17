@@ -53,7 +53,7 @@ ul, ol {
     padding-left: 0;
 }
 li {
-    /*list-style-position: inside;*/
+    list-style-position: outside;  /* second line wrap */
     font-size: 16px;
     line-height: 1.5;
 }
