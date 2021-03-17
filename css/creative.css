@@ -47,7 +47,7 @@ h6 {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-/* added list (ul) specs*/
+/* bullet point list specs */
 ul, ol {
     list-style-position: inside;
     padding-left: 0;
