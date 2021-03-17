@@ -49,14 +49,15 @@ h6 {
 
 /* bullet point list specs */
 ul, ol {
-    list-style-position: inside;
+    */list-style-position: inside;*/
     padding-left: 0;
+    text-indent: -20px; /* key property */
+    margin-left: 20px; /* key property */
 }
 li {
-    list-style-position: inside;
+    /*list-style-position: inside;*/
     font-size: 16px;
     line-height: 1.5;
-    text-indent: -1em;
 }
 
 p {
