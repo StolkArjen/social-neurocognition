@@ -57,6 +57,8 @@ li {
     list-style-position: inside;
     font-size: 16px;
     line-height: 1.5;
+    text-indent: -1em;
+    padding-left: 1em;
 }
 
 p {
