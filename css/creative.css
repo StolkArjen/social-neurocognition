@@ -54,6 +54,7 @@ ul, ol {
 }
 li {
     list-style-position: outside;  /* second line wrap */
+    padding-left: 0.5em;
     font-size: 16px;
     line-height: 1.5;
 }
